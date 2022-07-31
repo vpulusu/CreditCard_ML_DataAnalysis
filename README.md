@@ -7,5 +7,7 @@ https://gmubusinessanalytics.netlify.app/data/credit_card_df.rds
 
 ### Files:
 CreditCard_ML_DA.Rmd
+
 CreditCard_ML_DA.html
+
 CredtCard_MLProject.pdf
