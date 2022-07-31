@@ -4,7 +4,11 @@ Explored the relationship between `customer_status` and the other variables in t
 
 ### Data Source:
 https://gmubusinessanalytics.netlify.app/data/credit_card_df.rds
-###Files:
+
+### Files:
+
 CreditCard_ML_DA.Rmd
+
 CreditCard_ML_DA.html
+
 CredtCard_MLProject.pdf
